@@ -1,0 +1,4 @@
+./Exercise2/file1.txt
+./Exercise2/test_utils.py
+./Exercise2/utils.py
+./Exercise2/__pycache__
